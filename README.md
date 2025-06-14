@@ -6,13 +6,12 @@
 ## 💫 About Me
 I am a Computer Engineer specialized in Information Systems.
 
----
+
 
 ## 📫 Contact
 💬 If you need anything, feel free to mail me 🙂  
 ✉️ **Email:** alejandro.segui.apellaniz@gmail.com
 
----
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&labelColor=grey&style=flat-square)](https://www.linkedin.com/in/alejandrosegu%C3%ADapell%C3%A1niz/)
