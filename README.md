@@ -2,14 +2,23 @@
 
 ![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQH138c6tDyNng/profile-displaybackgroundimage-shrink_350_1400/B4DZdt.ihuHMAY-/0/1749896801295?e=1755129600&v=beta&t=Awhpa65pSQLyCxQjIe8aMKwBqejuB7jBbjUMQpBm4-4)
 
-💫 **About Me**  
+
+---
+
+## 💫 About Me
 I am a Computer Engineer specialized in Information Systems.
 
-💬 If you need anything, feel free to mail me 🙂  
-📫 **Email:** alejandro.segui.apellaniz@gmail.com
+---
 
-🌐 **Socials**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/alejandrosegu%C3%ADapell%C3%A1niz/)
+## 📫 Contact
+💬 If you need anything, feel free to mail me 🙂  
+✉️ **Email:** danielasensi444@outlook.com
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&labelColor=grey&style=flat-square)](https://www.linkedin.com/in/alejandrosegu%C3%ADapell%C3%A1niz/)
+
 
 
 
