@@ -14,7 +14,7 @@ I am a Computer Engineer specialized in Information Systems.
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alejandrosegu%C3%ADapell%C3%A1niz/)
+[![LinkedIn](https://camo.githubusercontent.com/bbd5a3be2124528ab2064d49356ed845b5f9a05fc79c603e25c76c6601e28b67/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/alejandrosegu%C3%ADapell%C3%A1niz/)
 
 
 
