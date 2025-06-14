@@ -3,8 +3,6 @@
 ![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQH138c6tDyNng/profile-displaybackgroundimage-shrink_350_1400/B4DZdt.ihuHMAY-/0/1749896801295?e=1755129600&v=beta&t=Awhpa65pSQLyCxQjIe8aMKwBqejuB7jBbjUMQpBm4-4)
 
 
----
-
 ## 💫 About Me
 I am a Computer Engineer specialized in Information Systems.
 
@@ -12,7 +10,7 @@ I am a Computer Engineer specialized in Information Systems.
 
 ## 📫 Contact
 💬 If you need anything, feel free to mail me 🙂  
-✉️ **Email:** danielasensi444@outlook.com
+✉️ **Email:** alejandro.segui.apellaniz@gmail.com
 
 ---
 
