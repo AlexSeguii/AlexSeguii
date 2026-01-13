@@ -1,6 +1,6 @@
 ## Hi, I’m Alejandro 👋
 
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQH138c6tDyNng/profile-displaybackgroundimage-shrink_350_1400/B4DZdt.ihuHMAY-/0/1749896801295?e=1766620800&v=beta&t=AVPbzYt3tH02uhzc5QrS7gnAqHgKk45CxOnvY1mabDc)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQH138c6tDyNng/profile-displaybackgroundimage-shrink_350_1400/B4DZdt.ihuHMAY-/0/1749896801295?e=1769644800&v=beta&t=lUFVDcad6WKbbuBRwYEZPXeM0M8ELViDLczc327om-c)
 
 
 
